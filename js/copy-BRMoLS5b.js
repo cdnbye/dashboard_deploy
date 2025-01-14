@@ -1,0 +1,1 @@
+import{bI as s}from"../jse/index-index-CBSM48l5.js";import{b as t}from"./bootstrap-CgpL34Qf.js";function r(o){const{copy:c}=s({legacy:!0});c(o),t.success({content:"Copy successfully",duration:2})}export{r as c};
