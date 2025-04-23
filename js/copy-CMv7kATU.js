@@ -1,0 +1,1 @@
+import{bI as s}from"../jse/index-index-BG6jV3fR.js";import{c as t}from"./bootstrap-CL17rep8.js";function r(o){const{copy:c}=s({legacy:!0});c(o),t.success({content:"Copy successfully",duration:2})}export{r as c};
