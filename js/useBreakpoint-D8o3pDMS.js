@@ -1,0 +1,1 @@
+import{u as r}from"./responsiveObserve-Cl5dIqyT.js";import{a8 as u,a6 as a,a7 as t}from"../jse/index-index-Dsf0VSis.js";function v(){const e=u({});let s=null;const n=r();return a(()=>{s=n.value.subscribe(o=>{e.value=o})}),t(()=>{n.value.unsubscribe(s)}),e}export{v as u};
